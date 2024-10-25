@@ -1,0 +1,42 @@
+[
+  {
+    "role": "Software Developer Engineer",
+    "organisation": "Amazon Inc.",
+    "startDate": "Mar 2022",
+    "endDate": "Dec 2023",
+    "experiences": [
+      "Implemented UX/UI redesign using Figma and React with TypeScript",
+      "Implemented camera QR and barcode scanning functionality with QuaggaJs",
+      "Decoupled UX workflow to support multiple vendors",
+      "Converted web app into mobile app using Apache Cordova",
+      "Implemented multilanguage support with i18next",
+      "Implemented AWS websocket api for real-time remote monitoring and adjudication",
+      "Developed NodeTS RESTful APIs with AWS"
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Antra Inc.",
+    "startDate": "July 2021",
+    "endDate": "Mar 2022",
+    "experiences": [
+      "Worked on Spring Boot microservices",
+      "Implemented document management service",
+      "Upgraded Angular UI"
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Code Beats Llc.",
+    "startDate": "Jan 2020",
+    "endDate": "July 2021",
+    "experiences": [
+      "Worked on live-code digital audio workstation written Python and Ruby",
+      "Developed multithreaded playlist and sequencer APIs",
+      "Developed musical code library"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

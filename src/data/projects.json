@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Node Microservices Shop",
+    "imageSrc": "projects/videos/node-microservice-example.mp4",
+    "description": "",
+    "skills": ["TypeScript", "Node", "Express", "Vite", "React", "React Router v6", "MongoDb"," MySQL", "Mongoose", "Sequelize", "Tailwind", "Jest", "Docker"],
+    "demo": "#projects",
+    "source": "https://github.com/elibowman/node-react-ecommerce-microservices-example"
+  },
+  {
+    "title": "Spring Microservices Shop",
+    "imageSrc": "projects/videos/spring-boot-microservice-example.mp4",
+    "description": "",
+    "skills": ["Java", "Spring Boot", "Angular", "KeyCloak", "Kafka", "MySQL", "MongoDb", "Flyway", "Tailwind", "Resilience4j", "Swagger", "Actuator", "Docker"],
+    "demo": "#projects",
+    "source": "https://github.com/elibowman/spring-boot-angular-ecommerce-microservices-example"
+  },
+  {
+    "title": "Ecommerce UI",
+    "imageSrc": "projects/videos/ecommerce-ui.mp4",
+    "description": "",
+    "skills": ["JavaScript", "HTML5", "CSS3"],
+    "demo": "#projects",
+    "source": "https://github.com/elibowman/ecommercesite"
+  },
+  {
+    "title": "PacMan",
+    "imageSrc": "projects/videos/pacman.mp4",
+    "description": "",
+    "skills": ["Java", "Javax", "AWT", "Swing"],
+    "demo": "#projects",
+    "source": "https://github.com/elibowman/pacman_java"
+  }
+]

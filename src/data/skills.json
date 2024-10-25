@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript_2.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/spring-boot.svg"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node_2.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular_2.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb_2.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws_2.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Kafka",
+    "imageSrc": "skills/kafka.png"
+  },
+  {
+    "title": "Kubernates",
+    "imageSrc": "skills/kubernates.png"
+  },
+  {
+    "title": "Jenkins",
+    "imageSrc": "skills/jenkins.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]

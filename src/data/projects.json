@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Spring Microservices Shop",
+    "imageSrc": "projects/videos/spring-boot-microservices-example.mp4",
+    "description": "",
+    "skills": ["Java", "Spring Boot", "Angular", "KeyCloak", "Kafka", "MySQL", "MongoDb", "Flyway", "Tailwind", "Avro", "Resilience4j", "Swagger", "Actuator", "Docker"],
+    "demo": "#projects",
+    "source": "https://github.com/elibowman/spring-boot-angular-ecommerce-microservices-example"
+  },
+  {
+    "title": "Ecommerce UI",
+    "imageSrc": "projects/videos/ecommerce-ui.mp4",
+    "description": "",
+    "skills": ["JavaScript", "HTML5", "CSS3"],
+    "demo": "#projects",
+    "source": "https://github.com/elibowman/ecommercesite"
+  },
+  {
+    "title": "PacMan",
+    "imageSrc": "projects/videos/pacman.mp4",
+    "description": "",
+    "skills": ["Java", "Javax", "AWT", "Swing"],
+    "demo": "#projects",
+    "source": "https://github.com/elibowman/pacman_java"
+  }
+]

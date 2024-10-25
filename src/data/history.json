@@ -1,0 +1,60 @@
+[
+  {
+    "role": "Software Developer Engineer",
+    "organisation": "Amazon Inc.",
+    "startDate": "Mar 2022",
+    "endDate": "Dec 2023",
+    "experiences": [
+      "Worked on TypeScript Node React service orientated, microservice, and event-driven web applications",   
+      "Added features and resolved issues, decreasing issues by 90%", 
+      "Built RESTful APIs",  
+      "Employed AWS tools, including Cloudfront with CDK, Lambda, S3, SQS, SNS, Cloudwatch, DynamoDB, RDS, EC2, IAM, KMS, and SDK", 
+      "Implemented unit, integration, and automation tests using Jest and Selenium",  
+      "Added native hardware access on mobile devices with Apache Cordova", 
+      "Used Git for version control and uploading to Amazon’s proprietary Jenkins-like pipeline",  
+      "Developed in an AGILE/SCRUM style",  
+      "Used Amazon’s proprietary Jira-like software for tracking sprints and user stories",  
+      "Worked independently and in collaboration, completing tasks in a timely manner" 
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Antra Inc.",
+    "startDate": "July 2021",
+    "endDate": "Mar 2022",
+    "experiences": [
+      "Built Java microservice and event-driven applications using the Spring Boot framework", 
+      "Participated in all aspects of the software development lifecycle", 
+      "Applied Core Java APIs, Java collections, Stream API, multi-threading, and OOP principles",  
+      "Implemented Spring Security, Spring Web, Spring IOC, Spring AOP, and Spring MVC", 
+      "Utilized Slf4j according to best practices for logging useful information and debugging", 
+      "Used Spring Data JPA and Hibernate ORM for data persistence and transaction management", 
+      "Built RESTful APIs for inter-service communication", 
+      "Developed unit and integration tests using JUnit and Mockito", 
+      "Built user interface using Angular", 
+      "Employed AWS tools, which includes Cloudfront, CDK, AWS Lambda, S3, SQS, SNS, RDS, and DynamoDB", 
+      "Used Git for version control and uploading to Jenkins pipeline", 
+      "Worked independently and in collaboration, completing tasks on schedule", 
+      "Used Jira for project management, tracking user stories, and bug fixing"
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Code Beats Llc.",
+    "startDate": "Jan 2020",
+    "endDate": "July 2021",
+    "experiences": [
+      "Worked on live-code digital audio workstation using Python and Ruby", 
+      "Developed UI using WebAudio to provide precise timing, WebMidi, CodeMirror, Skulp to compile Python scripts in real-time as user makes edits, and Dart, along with standard web technologies HTML, CSS, JavaScript, and the DOM", 
+      "Implemented Rest API server for static files, authentication, session data, and external integrations",  
+      "Developed WebSocket server for reconciliation algorithm and ensemble and client state synchronization ", 
+      "Utilized MySQL database for storing audio samples and projects",  
+      "Used Git for version control and uploading to Jenkins pipeline",  
+      "Used Jira for project management, tracking user stories, and bug fixing",  
+      "Worked independently and as a team, completing tasks on schedule"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

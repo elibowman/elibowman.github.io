@@ -1,5 +1,14 @@
 [
   {
+    "title": "Secure Bank Backend",
+    "imageSrc": [""],
+    "videoSrc": "projects/videos/secure-bank.mp4",
+    "description": "",
+    "skills": ["Java", "Spring Boot", "Security", "JWT", "Cloud", "JPA", "MVC", "MySQL", "Hibernate", "Swagger", "Docker"],
+    "demo": "#projects",
+    "source": "https://github.com/elibowman/secure-bank"
+  },
+  {
     "title": "Spring Microservices Shop",
     "imageSrc": [""],
     "videoSrc": "projects/videos/spring-boot-microservices-example.mp4",
